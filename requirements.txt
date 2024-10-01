@@ -1,0 +1,6 @@
+numpy==1.23.5
+torch==2.1.2
+torchmetrics==1.3.0
+torchvision==0.16.2
+pyclustering
+pyclustering==0.10.1.2
